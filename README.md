@@ -1,11 +1,5 @@
-## Hi there 👋
-
-<!--
-**starrock7205-pixel/starrock7205-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+[ReadMe.md](https://github.com/user-attachments/files/34526092/ReadMe.md)
+# 💫 About Me:
 🔭 I’m c🔭 1. I'm currently working on<br>Building Ustaad — an AI-powered service platform transforming vocational discoverability for skilled workers; optimizing edge-AI workflows via Snapdragon AI & ScanLens AI.<br><br>👥 2. I'm looking to collaborate on<br>Open-source agentic workflows, Kaggle challenge architectures, local LLM orchestration (Ollama/Gemini APIs), and community developer tech initiatives.<br><br>🤝 3. I'm looking for help with<br>Scaling serverless deployment edge-to-cloud architectures, advanced multi-agent orchestration frameworks, and optimizing on-device computer vision performance.<br><br>🌱 4. I'm currently learning<br>Advanced autonomous agent systems, precision agricultural cognitive frameworks, and high-performance terminal-first local runtime environments.<br><br>💬 5. Ask me about<br>Prompt engineering philosophies, vibe-coding development pipelines, Google Data Analytics frameworks, AI quiz strategy, and public speaking methodologies.<br><br>⚡ 6. Fun fact<br>I built and deployed full production-grade applications entirely through natural language prompt engineering on an Intel Core i3 Kali Linux rig—proving speed comes from clarity of thought!urrently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
@@ -29,11 +23,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=starrock7205-pixel&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
